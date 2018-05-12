@@ -1,0 +1,35 @@
+_repo: Handbook-of-Medical-Entomology_34279
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Johannsen, O. A. (Oskar Augustus)
+    alias: Johannsen, Oskar Augustus
+    birthdate: 1870
+    deathdate: 1961
+    gutenberg_agent_id: '36931'
+    url: http://www.gutenberg.org/2009/agents/36931
+  - agent_name: Riley, William A. (William Albert)
+    alias: Riley, W. A. (William Albert)
+    birthdate: 1876
+    gutenberg_agent_id: '36930'
+    url: http://www.gutenberg.org/2009/agents/36930
+description: ''
+gutenberg_issued: '2010-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34279'
+  lccn: '15002616'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Insect pests'
+- !lcsh 'Medical parasitology'
+- !lcsh 'Insects as carriers of disease'
+title: Handbook of Medical Entomology
+url: http://www.gutenberg.org/ebooks/34279
